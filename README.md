@@ -1,3 +1,26 @@
+## cyclonedds (humble) - 0.10.5-2
+
+The packages in the `cyclonedds` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble cyclonedds --override-release-repository-push-url git@github.com:revyos-ros/cyclonedds-release.git` on `Thu, 12 Dec 2024 08:27:24 -0000`
+
+The `cyclonedds` package was released.
+
+Version of package(s) in repository `cyclonedds`:
+
+- upstream repository: https://github.com/eclipse-cyclonedds/cyclonedds.git
+- release repository: https://github.com/revyos-ros/cyclonedds-release.git
+- rosdistro version: `0.10.5-2`
+- old version: `0.10.5-1`
+- new version: `0.10.5-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## cyclonedds (humble) - 0.10.5-1
 
 The packages in the `cyclonedds` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble cyclonedds --override-release-repository-push-url git@github.com:revyos-ros/cyclonedds-release.git` on `Thu, 12 Dec 2024 08:23:33 -0000`
