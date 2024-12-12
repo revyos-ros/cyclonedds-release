@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:ros2-gbp/cyclonedds-release
+release_repo_url: git@github.com:revyos-ros/cyclonedds-release.git
 tracks:
   dashing:
     actions:
